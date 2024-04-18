@@ -50,7 +50,7 @@ class Card_tail extends StatelessWidget {
                 ),
               )
             ]),
-            SizedBox(
+          const  SizedBox(
               width: 15,
             ),
             //column to message and timestart and timegoal
